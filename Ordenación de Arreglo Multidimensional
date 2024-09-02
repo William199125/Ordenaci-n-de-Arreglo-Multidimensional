@@ -1,0 +1,9 @@
+Matriz original:
+[9, 3, 7]
+[1, 5, 8]
+[4, 6, 2]
+
+Matriz con la fila ordenada:
+[9, 3, 7]
+[1, 5, 8]
+[2, 4, 6]
